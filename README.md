@@ -54,5 +54,5 @@ Due to size constraints, raw data files and processed tensors are *not included 
 - 📽 Presentation Video: https://drive.google.com/drive/folders/1oIV1lOQ4CCR9M3NZtpLtd7MVO26Dq53D
 - 📊 Presentation Slides: https://drive.google.com/drive/folders/1OGMRi0-q6bcvAA3nsQEz0bcmwkvOGZ3v
 - 📄 Final Report: https://drive.google.com/drive/folders/1-HPsyf7017WYr780j8ds9Wcx8TZ9pI1Y
-- 📂 Dataset: dataset/fashion-mnist.zip
+- 📂 Dataset: https://drive.google.com/drive/folders/1BLv2D_PH4zmVSi5ra-DShtOu6QfmWCwY
 - 🎥 Demo Video: https://www.youtube.com/watch?v=PgC6iEznj_M
