@@ -1,5 +1,5 @@
 # Interpretable Hybrid Model for Visual Pattern Recognition  
-*ECE 5831 – Pattern Recognition and Neural Networks *  
+ECE 5831 – Pattern Recognition and Neural Networks  
 University of Michigan–Dearborn  
 
 
